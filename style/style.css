@@ -9,4 +9,20 @@
     width: 100%;
     margin: 0 auto;
     padding: 0 15px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    gap: 70px;
+}
+
+.col-3 {
+    text-align: center;
+    width: 200px;
+    border: 1px solid grey;
+    padding: 20px 40px;
+    border-radius: 10px;
 }
